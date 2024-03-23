@@ -30,7 +30,7 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" height="50" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szabidev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szabidev&show_icons=true&theme=merko)
 <!-- 
 **szabidev/szabidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
