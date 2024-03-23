@@ -13,6 +13,7 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" /></a>
 -->
 <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50" /></a>
+<hr></hr>
 ### Tools
 <a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="50" /></a>
@@ -28,7 +29,7 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" height="50" /></a>
-
+<hr></hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szabidev&show_icons=true&theme=merko)
 <!-- 
