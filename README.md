@@ -29,6 +29,8 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" height="50" /></a>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szabidev)](https://github.com/szabidev/github-readme-stats)
 <!-- 
 **szabidev/szabidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
