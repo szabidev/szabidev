@@ -1,13 +1,20 @@
-### Hi there 👋
+### Hello there 👋
 ### Languages and Frameworks
 <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="50" /></a>
+<!-- 
+<a href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="50" /></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" height="50" /></a>
+-->
 <a href="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" height="50" /></a>
+<!-- 
+<a href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" /></a>
+-->
 <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50" /></a>
 ### Tools
 <a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="50" /></a>
@@ -25,7 +32,6 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" height="50" /></a>
-<!--  Comment -->
 
 <!-- 
 **szabidev/szabidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
