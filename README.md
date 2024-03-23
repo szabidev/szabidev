@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Languages and Tools
-<a href="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" height="100" /></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" height="50" /></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original-wordmark.svg" height="50" /></a>
 <!-- 
 **szabidev/szabidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
