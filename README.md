@@ -26,7 +26,6 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original-wordmark.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" /></a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="50" /></a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" height="50" /></a>
 
