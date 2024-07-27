@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-# Languages 
+### Languages 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="display: inline-block; margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
@@ -11,7 +11,7 @@
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-# Frameworks & Library
+### Frameworks & Library
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="display: inline-block; margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
@@ -25,14 +25,14 @@
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-# Mobile Frameworks
+### Mobile Frameworks
 <div>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="display: inline-block; margin: 0 5px;"/>
 </div>
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-# Database
+### Database
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
@@ -40,21 +40,21 @@
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-# Terminal
+### Terminal
 <div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
 </div>
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-# Design
+### Design
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
 </div>
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-# Package managers
+### Package managers
 <div>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
