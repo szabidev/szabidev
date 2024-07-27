@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
 </div>
 
-<hr style="height: 1px; background-color: #ccc; border: none;"/>
+<hr style="width: 1px; background-color: #ccc; border: none;"/>
 
 ### Frameworks & Library
 <div>
