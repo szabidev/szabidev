@@ -11,7 +11,7 @@
 
 <hr style="width: 1px; background-color: #ccc; border: none;"/>
 
-### Frameworks & Library
+### Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="display: inline-block; margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
