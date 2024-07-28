@@ -40,13 +40,6 @@
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-### Terminal
-<div>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
-</div>
-
-<hr style="height: 1px; background-color: #ccc; border: none;"/>
-
 ### Design
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
@@ -54,14 +47,6 @@
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
-### Package managers
-<div>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
-</div>
-
-<hr style="height: 1px; background-color: #ccc; border: none;"/>
 
 ### My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szabidev&show_icons=true&theme=merko)
