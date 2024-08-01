@@ -40,6 +40,11 @@
 
 <hr style="height: 1px; background-color: #ccc; border: none;"/>
 
+### Testing
+<div>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
+<div/>
+
 ### Design
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="display: inline-block; margin: 0 5px;"/>
